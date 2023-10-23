@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/85883db7a78449c38a3c26dc26d77e1f/artifacts
+end_time: 1697897420293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85883db7a78449c38a3c26dc26d77e1f
+run_name: respected-whale-414
+run_uuid: 85883db7a78449c38a3c26dc26d77e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697897420247
+status: 3
+tags: []
+user_id: amins
