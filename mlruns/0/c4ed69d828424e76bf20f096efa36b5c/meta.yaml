@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/c4ed69d828424e76bf20f096efa36b5c/artifacts
+end_time: 1698123521207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4ed69d828424e76bf20f096efa36b5c
+run_name: intrigued-robin-392
+run_uuid: c4ed69d828424e76bf20f096efa36b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123520180
+status: 4
+tags: []
+user_id: amins

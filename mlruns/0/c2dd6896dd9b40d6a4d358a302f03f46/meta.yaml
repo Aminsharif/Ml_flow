@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/c2dd6896dd9b40d6a4d358a302f03f46/artifacts
+end_time: 1698123572806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2dd6896dd9b40d6a4d358a302f03f46
+run_name: fearless-grouse-229
+run_uuid: c2dd6896dd9b40d6a4d358a302f03f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123568232
+status: 3
+tags: []
+user_id: amins

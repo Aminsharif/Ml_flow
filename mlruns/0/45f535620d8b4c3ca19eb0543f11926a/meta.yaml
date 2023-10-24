@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/45f535620d8b4c3ca19eb0543f11926a/artifacts
+end_time: 1698123563311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45f535620d8b4c3ca19eb0543f11926a
+run_name: gaudy-wasp-921
+run_uuid: 45f535620d8b4c3ca19eb0543f11926a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123558144
+status: 3
+tags: []
+user_id: amins

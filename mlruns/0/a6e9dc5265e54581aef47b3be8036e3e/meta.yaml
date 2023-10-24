@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/a6e9dc5265e54581aef47b3be8036e3e/artifacts
+end_time: 1698123389898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6e9dc5265e54581aef47b3be8036e3e
+run_name: capricious-pug-729
+run_uuid: a6e9dc5265e54581aef47b3be8036e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123385043
+status: 3
+tags: []
+user_id: amins

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/573b5bdf1253418bb8c0bbebb4107e92/artifacts
+end_time: 1698123486044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 573b5bdf1253418bb8c0bbebb4107e92
+run_name: mercurial-kit-109
+run_uuid: 573b5bdf1253418bb8c0bbebb4107e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123482214
+status: 3
+tags: []
+user_id: amins

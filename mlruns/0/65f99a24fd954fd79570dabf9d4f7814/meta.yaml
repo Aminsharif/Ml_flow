@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/65f99a24fd954fd79570dabf9d4f7814/artifacts
+end_time: 1698123550033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65f99a24fd954fd79570dabf9d4f7814
+run_name: unique-whale-343
+run_uuid: 65f99a24fd954fd79570dabf9d4f7814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123545527
+status: 3
+tags: []
+user_id: amins

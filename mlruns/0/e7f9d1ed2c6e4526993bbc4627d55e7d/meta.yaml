@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/e7f9d1ed2c6e4526993bbc4627d55e7d/artifacts
+end_time: 1698123529932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7f9d1ed2c6e4526993bbc4627d55e7d
+run_name: thoughtful-gnat-671
+run_uuid: e7f9d1ed2c6e4526993bbc4627d55e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123526006
+status: 3
+tags: []
+user_id: amins

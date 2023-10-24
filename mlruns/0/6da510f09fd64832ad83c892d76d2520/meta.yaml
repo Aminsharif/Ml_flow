@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/6da510f09fd64832ad83c892d76d2520/artifacts
+end_time: 1698122915049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6da510f09fd64832ad83c892d76d2520
+run_name: abundant-ray-862
+run_uuid: 6da510f09fd64832ad83c892d76d2520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698122911393
+status: 3
+tags: []
+user_id: amins

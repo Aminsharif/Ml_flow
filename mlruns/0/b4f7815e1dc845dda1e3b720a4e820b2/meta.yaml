@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/b4f7815e1dc845dda1e3b720a4e820b2/artifacts
+end_time: 1698123591254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4f7815e1dc845dda1e3b720a4e820b2
+run_name: unruly-gull-342
+run_uuid: b4f7815e1dc845dda1e3b720a4e820b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123586876
+status: 3
+tags: []
+user_id: amins

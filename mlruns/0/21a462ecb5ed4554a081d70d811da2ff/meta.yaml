@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/21a462ecb5ed4554a081d70d811da2ff/artifacts
+end_time: 1698123540516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21a462ecb5ed4554a081d70d811da2ff
+run_name: masked-eel-233
+run_uuid: 21a462ecb5ed4554a081d70d811da2ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123536160
+status: 3
+tags: []
+user_id: amins

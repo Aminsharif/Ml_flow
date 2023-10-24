@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/2564a211f31249a8b2ae795b5fef1f90/artifacts
+end_time: 1698123379481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2564a211f31249a8b2ae795b5fef1f90
+run_name: vaunted-bird-466
+run_uuid: 2564a211f31249a8b2ae795b5fef1f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123374733
+status: 3
+tags: []
+user_id: amins

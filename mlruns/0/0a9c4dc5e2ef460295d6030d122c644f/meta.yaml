@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/0a9c4dc5e2ef460295d6030d122c644f/artifacts
+end_time: 1698123581738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a9c4dc5e2ef460295d6030d122c644f
+run_name: upset-panda-749
+run_uuid: 0a9c4dc5e2ef460295d6030d122c644f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123577735
+status: 3
+tags: []
+user_id: amins

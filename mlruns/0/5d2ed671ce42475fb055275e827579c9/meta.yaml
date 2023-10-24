@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/5d2ed671ce42475fb055275e827579c9/artifacts
+end_time: 1698123495316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d2ed671ce42475fb055275e827579c9
+run_name: overjoyed-lamb-535
+run_uuid: 5d2ed671ce42475fb055275e827579c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123491165
+status: 3
+tags: []
+user_id: amins

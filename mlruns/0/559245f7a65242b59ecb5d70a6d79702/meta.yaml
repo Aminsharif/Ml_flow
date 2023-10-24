@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/559245f7a65242b59ecb5d70a6d79702/artifacts
+end_time: 1698123504716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 559245f7a65242b59ecb5d70a6d79702
+run_name: silent-newt-790
+run_uuid: 559245f7a65242b59ecb5d70a6d79702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123500198
+status: 3
+tags: []
+user_id: amins

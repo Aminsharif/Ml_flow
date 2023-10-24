@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/7edf9eb70a90465185c2d2f30a817e16/artifacts
+end_time: 1698123400518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7edf9eb70a90465185c2d2f30a817e16
+run_name: nebulous-rat-666
+run_uuid: 7edf9eb70a90465185c2d2f30a817e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123395877
+status: 3
+tags: []
+user_id: amins

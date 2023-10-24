@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/e94a94ea11cb4de2b80de9da91ddebea/artifacts
+end_time: 1698123410779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e94a94ea11cb4de2b80de9da91ddebea
+run_name: polite-dog-674
+run_uuid: e94a94ea11cb4de2b80de9da91ddebea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123405990
+status: 3
+tags: []
+user_id: amins

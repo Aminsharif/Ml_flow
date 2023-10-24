@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/eabb99e15a1d4fdd88865c1f75d08109/artifacts
+end_time: 1698123514844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eabb99e15a1d4fdd88865c1f75d08109
+run_name: agreeable-sponge-184
+run_uuid: eabb99e15a1d4fdd88865c1f75d08109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123510310
+status: 3
+tags: []
+user_id: amins

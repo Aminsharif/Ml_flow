@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/be0b36ae057c4e42a9888a0b2bc31900/artifacts
+end_time: 1698123423547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be0b36ae057c4e42a9888a0b2bc31900
+run_name: stately-hound-967
+run_uuid: be0b36ae057c4e42a9888a0b2bc31900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123418786
+status: 3
+tags: []
+user_id: amins

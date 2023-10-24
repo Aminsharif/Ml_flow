@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/e6b76930fdf64ce2ae5f4ff25712e1dd/artifacts
+end_time: 1698123470827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6b76930fdf64ce2ae5f4ff25712e1dd
+run_name: carefree-gull-656
+run_uuid: e6b76930fdf64ce2ae5f4ff25712e1dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123465723
+status: 3
+tags: []
+user_id: amins

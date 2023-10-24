@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS_prac/MLFlow/mlruns/0/01d2491e59754f9b886322ac45636ce2/artifacts
+end_time: 1698123435005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01d2491e59754f9b886322ac45636ce2
+run_name: beautiful-hound-646
+run_uuid: 01d2491e59754f9b886322ac45636ce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698123430575
+status: 3
+tags: []
+user_id: amins
